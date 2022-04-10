@@ -1,0 +1,18 @@
+*{
+list-style: none;
+}
+
+body{
+    background-color: #9a99a0;
+}
+h1{
+    color:rgb(17, 4, 77)
+}
+/* Selectores id */
+#parrafoDeColor{
+color: crimson;
+}
+/* Selectores Class */
+.parrafoVerde{
+    color: green;
+}
