@@ -5,6 +5,9 @@ margin: 0;
 padding: 0;
 }
 
+a::before{
+    content:":)";
+}
 
 /* Selectores Etiqueta*/
 body{
@@ -15,6 +18,9 @@ h1{
     color:rgb(17, 4, 77);
 }
 
+h1:hover{
+    color:hsl(12, 84%, 35%);
+}
 
 /* Selectores id */
 @import url('https://fonts.googleapis.com/css2? family= Yanone+Kaffeesatz & display=swap');
