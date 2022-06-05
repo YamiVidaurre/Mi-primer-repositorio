@@ -1,18 +1,30 @@
+/* Selectores Universales*/
 *{
 list-style: none;
+margin: 0;
+padding: 0;
 }
 
+
+/* Selectores Etiqueta*/
 body{
     background-color: #9a99a0;
 }
+
 h1{
-    color:rgb(17, 4, 77)
+    color:rgb(17, 4, 77);
 }
+
+
 /* Selectores id */
+@import url('https://fonts.googleapis.com/css2? family= Yanone+Kaffeesatz & display=swap');
 #parrafoDeColor{
-color: crimson;
+   color: crimson;
+font-family: 'Yanone Kaffeesatz', sans-serif;
 }
+
+
 /* Selectores Class */
 .parrafoAzul{
-    color: blue;
+    color: rgb(55, 0, 255);
 }
